@@ -9,7 +9,7 @@ class ProductManager {
             description,
             price,
             thumbnail,
-            code: "abc123",
+            code,
             id: this.products.length + 1,
         };
 
